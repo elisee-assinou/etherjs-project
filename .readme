@@ -1,0 +1,1 @@
+Ce projet permet d'utiliser u RPC pour se connecter sur GOERLI(provider) et permet d'obtenir le numero du bloc actuel et  le solde ether de l'adresse. Ensuite nous utilisons ABI pour lire et ecrire des donnees de fonction de la source
